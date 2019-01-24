@@ -8,6 +8,7 @@ public class Javapractice {
 	public void test() {
 		
 		System.out.println(" test1");
+		System.out.println(" test1");
 	}
 	
 
